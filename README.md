@@ -3,10 +3,11 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Project - The Legacy Equation</b>
-  - [Various Python Visualization](https://github.com/daleparr/daleparr/blob/main/data-projects))
+  - [Various Python Visualization](https://github.com/daleparr/daleparr/blob/main/data-projects)
+ 
+<h2>📜 Certifications:</h2>
 - <b>Data Science Bootcamp</b>
   - [Completed Bootcamp Tasks](https://github.com/daleparr/daleparr/blob/main/data-science-bootcamp)
-
 
 
 
