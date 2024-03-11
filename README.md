@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dale! <br/> (https://www.linkedin.com/in/daleparr/) <br/> Solving foundational challenges in the fashion industry using Data Science. </a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
