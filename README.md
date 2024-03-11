@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dale! <br/> (https://www.linkedin.com/in/daleparr/) <br/> Solving foundational challenges in the fashion industry using Data Science. </a>
+<h1>Hi, I'm Dale! <br/> Helping solve foundational challenges in the fashion industry using Data Science. </a> <br/> (https://www.linkedin.com/in/daleparr/) <br/>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
