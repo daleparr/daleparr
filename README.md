@@ -8,7 +8,7 @@
 <h2>📜 Certifications:</h2>
 
 - <b>Data Science Bootcamp</b>
-  - [Completed Bootcamp Tasks](https://github.com/daleparr/daleparr/blob/main/data-science-bootcamp)
+  - [Completed Bootcamp Tasks](https://github.com/daleparr/data-science-boot-camp)
  
 [X]: https://twitter.com/mrdparr/
 [Substack]: https://structuresoflegacy.substack.com/
