@@ -28,10 +28,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[X]: https://twitter.com/mrdparr
+[X]: https://twitter.com/mrdparr/
 [Substack]: https://structuresoflegacy.substack.com/
 [instagram]: https://www.instagram.com/daleparr/
-[linkedin]: https://linkedin.com/in/daleparr
+[linkedin]: https://linkedin.com/in/daleparr/
 
 Here are some ideas to get you started:
 
