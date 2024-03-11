@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Legacy Equation</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Various Python Visualization](https://github.com/daleparr/daleparr/blob/main/data-projects))
 - <b>Data Science Bootcamp</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
