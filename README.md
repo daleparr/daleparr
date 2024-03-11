@@ -5,7 +5,8 @@
 - <b>Legacy Equation</b>
   - [Various Python Visualization](https://github.com/daleparr/daleparr/blob/main/data-projects))
 - <b>Data Science Bootcamp</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Completed Bootcamp Tasks](https://github.com/daleparr/daleparr/blob/main/data-science-bootcamp)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
