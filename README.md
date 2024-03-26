@@ -3,12 +3,12 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Project - The Legacy Equation</b>
-  - [Various Python Visualization](https://github.com/daleparr/The-Legacy-Equation)
+  - [Various Python Visualizations](https://github.com/daleparr/The-Legacy-Equation)
 
 <h2>📜 Certifications:</h2>
 
 - <b>Data Science Fundamentals</b>
-  - [Completed Bootcamp Tasks](https://github.com/daleparr/data-science-boot-camp)
+  - [Examples of my work](https://github.com/daleparr/data-science-boot-camp)
  
 [X]: https://twitter.com/mrdparr/
 [Substack]: https://structuresoflegacy.substack.com/
