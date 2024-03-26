@@ -7,7 +7,7 @@
 
 <h2>📜 Certifications:</h2>
 
-- <b>Data Science Bootcamp</b>
+- <b>Data Science Fundamentals</b>
   - [Completed Bootcamp Tasks](https://github.com/daleparr/data-science-boot-camp)
  
 [X]: https://twitter.com/mrdparr/
