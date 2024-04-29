@@ -4,6 +4,9 @@
 
 - <b>Project - The Legacy Equation</b>
   - [Various Python Visualizations](https://github.com/daleparr/The-Legacy-Equation)
+ 
+<h2>🦾 LSE: Data Analytics: </h2>
+  - [Examples of my work](https://github.com/daleparr/lse)
 
 <h2>📜 Certifications:</h2>
 
