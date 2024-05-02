@@ -12,7 +12,10 @@
 
 - <b>Data Science Fundamentals</b>
   - [Examples of my work](https://github.com/daleparr/data-science-boot-camp)
- 
+
+ - <b>Project - Essence L.A.</b>
+  - [Various Python Visualizations](https://github.com/daleparr/insights_projects)
+  - 
 [X]: https://twitter.com/mrdparr/
 [Substack]: https://structuresoflegacy.substack.com/
 [instagram]: https://www.instagram.com/daleparr/
