@@ -3,7 +3,7 @@
 <h2>🦾 Data Science Infinity: Project Portfolio: </h2>
   - [Examples of my work](https://github.com/daleparr/mrdaleparr)
 
-<h2>🦾 LSE: Data Analytics: </h2>
+<h2>🦾 London School of Economics and Social Science: Data Analytics: </h2>
   - [Examples of my work](https://github.com/daleparr/lse)
 
 <h2>📜 Certifications:</h2>
