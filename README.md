@@ -11,13 +11,13 @@
 - <b>Data Science Fundamentals</b>
   - [Examples of my work](https://github.com/daleparr/data-science-boot-camp)
 
- - <b>Project - Essence L.A.</b>
-  - [Various Python Visualizations](https://github.com/daleparr/insights_projects)
-
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Project - The Legacy Equation</b>
   - [Various Python Visualizations](https://github.com/daleparr/The-Legacy-Equation)
+    
+- <b>Project - Essence L.A.</b>
+  - [Various Python Visualizations](https://github.com/daleparr/insights_projects)
   
 [X]: https://twitter.com/mrdparr/
 [Substack]: https://structuresoflegacy.substack.com/
