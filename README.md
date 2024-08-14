@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dale! <br/> Helping solve foundational challenges in the fashion industry using Data Science. </a> <br/> <h2>(https://www.linkedin.com/in/daleparr/) </h2>h2><br/>
+<h1>Hi, I'm Dale! <br/> Helping solve foundational challenges in the fashion industry using Data Science. </a> <br/> <h2>(https://www.linkedin.com/in/daleparr/) </h2><br/>
 
 <h2>🦾 Data Science Infinity: Project Portfolio: </h2>
   - [Examples of my work](https://github.com/daleparr/mrdaleparr)
