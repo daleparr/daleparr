@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dale! <br/> Helping solve foundational challenges in the fashion industry using Data Science. </a> <br/> <h2>(https://www.linkedin.com/in/daleparr/) </h2><br/>
 
-<h2>🦾 Data Science Infinity: Project Portfolio: </h2>
+<h2>🦾 Data Science Infinity: Project Portfolio</h2>
   - [Examples of my work](https://github.com/daleparr/mrdaleparr)
 
 <h2>🦾 London School of Economics and Social Science: Data Analytics: </h2>
@@ -8,8 +8,8 @@
 
 <h2>📜 Certifications:</h2>
 
-- <b>London School of Economics and Social Science: Data Analytics: </b>
-  -[Certificate](https://github.com/daleparr/LSE/blob/main/lse_data_analytics_certificate.pdf)
+- <b>London School of Economics and Social Science: Data Analytics</b>
+  -[View Certificate](https://github.com/daleparr/LSE/blob/main/lse_data_analytics_certificate.pdf)
   
 - <b>Data Science Fundamentals</b>
   - [Examples of my work](https://github.com/daleparr/data-science-boot-camp)
