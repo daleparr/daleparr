@@ -16,6 +16,9 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
+- <b>Project - SCOPE_Modal (Sales Conversion Optimization and Prediction Engine) </b>
+  - [Various Python Visualizations](https://github.com/daleparr/The-Legacy-Equation)
+
 - <b>Project - The Legacy Equation</b>
   - [Various Python Visualizations](https://github.com/daleparr/The-Legacy-Equation)
     
