@@ -17,7 +17,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Project - SCOPE_Modal (Sales Conversion Optimization and Prediction Engine) </b>
-  - [Various Python Visualizations](https://github.com/daleparr/The-Legacy-Equation)
+  - [SCOPE is a tool designed to help businesses understand how well their products are selling and uncover opportunities to boost sales](https://github.com/daleparr/SCOPE_model))
 
 - <b>Project - The Legacy Equation</b>
   - [Various Python Visualizations](https://github.com/daleparr/The-Legacy-Equation)
