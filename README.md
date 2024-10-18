@@ -1,4 +1,11 @@
-<h1>Hi, I'm Dale! <br/> Helping solve foundational challenges in the fashion industry using Data Science. </a> <br/> <h2>(https://www.linkedin.com/in/daleparr/) </h2><br/>
+<h2>Hi, I'm Dale! <br/>founder of Structures of Legacy and a data science visionary with formal education from the London School of Economics and the University of Cambridge. With over 25 years of diverse experience spanning investment banking, e-commerce, and fashion retail, I specialize in leveraging data science to drive digital transformation and operational excellence.
+
+As an entrepreneur, I built and scaled globally recognized, award-winning omnichannel footwear and apparel businesses, blending my expertise in e-commerce with a deep understanding of consumer behavior and data-driven decision-making. At Structures of Legacy, I continue to apply my skills in:
+
+Advanced Analytics: Proficient in Python, SQL, and Tableau, I turn complex data into strategic insights that fuel growth and efficiency.
+Machine Learning & Predictive Analytics: Expertise in methods such as Random Forests, Logistic Regression, and K-Means Clustering for optimizing inventory, customer segmentation, and trend forecasting.
+Data-Driven E-Commerce Strategies: From dynamic pricing to inventory optimization, I apply data science to solve real-world e-commerce challenges, ensuring operational efficiency and profitability.
+By merging my background in entrepreneurship with advanced analytics, I help businesses stay competitive in a rapidly evolving market. </a></h2> <br/> <h2>(https://www.linkedin.com/in/daleparr/) </h2><br/>
 
 <h2>🎓 London School of Economics and Social Science: Data Analytics: </h2>
   - [Examples of my work] (https://github.com/daleparr/lse)
