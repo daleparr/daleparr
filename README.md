@@ -1,10 +1,10 @@
-<h2>Hi, I'm Dale! <br/> As founder of Structures of Legacy, a data scientist with formal education from the London School of Economics and the University of Cambridge. With over 25 years of diverse experience spanning investment banking, e-commerce, and fashion retail, I specialize in leveraging data science to drive digital transformation and operational excellence.
+<h2>Hi, I'm Dale! <br/> As founder of Structures of Legacy, a data scientist with formal education from the London School of Economics and the University of Cambridge. With over 25 years of diverse experience spanning investment banking, e-commerce, and fashion retail, I specialise in leveraging data science to drive digital transformation and operational excellence.<br/>
 
-As an entrepreneur, I built and scaled globally recognized, award-winning omnichannel footwear and apparel businesses, blending my expertise in e-commerce with a deep understanding of consumer behavior and data-driven decision-making. At Structures of Legacy, I continue to apply my skills in:
+As an entrepreneur, I built and scaled globally recognized, award-winning omnichannel footwear and apparel businesses, blending my expertise in e-commerce with a deep understanding of consumer behavior and data-driven decision-making. At Structures of Legacy, I continue to apply my skills in:<br/>
 
-Advanced Analytics: Proficient in Python, SQL, and Tableau, I turn complex data into strategic insights that fuel growth and efficiency.
-Machine Learning & Predictive Analytics: Expertise in methods such as Random Forests, Logistic Regression, and K-Means Clustering for optimizing inventory, customer segmentation, and trend forecasting.
-Data-Driven E-Commerce Strategies: From dynamic pricing to inventory optimization, I apply data science to solve real-world e-commerce challenges, ensuring operational efficiency and profitability.
+Advanced Analytics: Proficient in Python, SQL, and Tableau, I turn complex data into strategic insights that fuel growth and efficiency.<br/>
+Machine Learning & Predictive Analytics: Expertise in methods such as Random Forests, Logistic Regression, and K-Means Clustering for optimizing inventory, customer segmentation, and trend forecasting.<br/>
+Data-Driven E-Commerce Strategies: From dynamic pricing to inventory optimization, I apply data science to solve real-world e-commerce challenges, ensuring operational efficiency and profitability.<br/>
 By merging my background in entrepreneurship with advanced analytics, I help businesses stay competitive in a rapidly evolving market. </a></h3> <br/> <h2>(https://www.linkedin.com/in/daleparr/) </h3><br/>
 
 <h2>🎓 London School of Economics and Social Science: Data Analytics: </h2>
