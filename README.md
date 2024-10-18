@@ -5,8 +5,11 @@ As an entrepreneur, I built and scaled globally recognized, award-winning omnich
 At Structures of Legacy, I continue to apply my skills in:<br>
 
 Advanced Analytics: Proficient in Python, SQL, and Tableau, I turn complex data into strategic insights that fuel growth and efficiency.<br/>
+
 Machine Learning & Predictive Analytics: Expertise in methods such as Random Forests, Logistic Regression, and K-Means Clustering for optimizing inventory, customer segmentation, and trend forecasting.<br>
+
 Data-Driven E-Commerce Strategies: From dynamic pricing to inventory optimization, I apply data science to solve real-world e-commerce challenges, ensuring operational efficiency and profitability.<br>
+
 By merging my background in entrepreneurship with advanced analytics, I help businesses stay competitive in a rapidly evolving market. </a></h3> <br/> <h2>(https://www.linkedin.com/in/daleparr/) </h3><br>
 
 <h2>🎓 London School of Economics and Social Science: Data Analytics: </h2>
