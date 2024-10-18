@@ -28,6 +28,10 @@ By merging my background in entrepreneurship with advanced analytics, I help bus
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
+- <b>Project - AffinityEngine (This project aims to discover product affinities and predict future co-purchase behavior and recommendations with the Apriori algorithm) <b>
+
+https://github.com/daleparr/AffinityEngine
+
 - <b>Project - SCOPE_Modal (Sales Conversion Optimization and Prediction Engine) </b>
   - [SCOPE is a tool designed to help businesses understand how well their products are selling and uncover opportunities to boost sales](https://github.com/daleparr/SCOPE_model))
 
