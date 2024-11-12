@@ -1,5 +1,4 @@
 <h3>Hi, I'm Dale, As the founder of Structures of Legacy, I bring over 25 years of experience with a strong academic foundation from the London School of Economics and the University of Cambridge. My career spans investment banking, e-commerce, and fashion retail, giving me a unique perspective on how data science can drive digital transformation and operational excellence in the fashion industry.</h3><br> 
-
 I specialise in applying data science to power profitable growth, informed by a deep understanding of consumer behavior and market trends.</h3><br>
 
 Throughout my career, I’ve built and scaled award-winning omnichannel footwear and apparel businesses, combining an entrepreneurial approach with data science expertise to fuel business adaptability and efficiency. At Structures of Legacy, I focus on helping brands leverage advanced analytics and machine learning to navigate today’s fast-evolving markets.
