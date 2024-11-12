@@ -1,16 +1,18 @@
-<h2>Hi, I'm Dale! <br/> As founder of Structures of Legacy, a data scientist with formal education from the London School of Economics and the University of Cambridge. With over 25 years of diverse experience spanning investment banking, e-commerce, and fashion retail, I specialise in leveraging data science to drive digital transformation and operational excellence.<br>
+<h3>Hi, I'm Dale, the founder of Structures of Legacy, I bring over 25 years of experience backed by formal education from the London School of Economics and the University of Cambridge. My career spans investment banking, e-commerce, and fashion retail, giving me a unique perspective on leveraging data science for digital transformation and operational efficiency. I specialize in applying data science to drive profitable growth by using insights from consumer behavior and market dynamics.</h3></br>
 
-As an entrepreneur, I built and scaled globally recognized, award-winning omnichannel footwear and apparel businesses, blending my expertise in e-commerce with a deep understanding of consumer behavior and data-driven decision-making. 
+Throughout my career, I’ve built and scaled award-winning omnichannel footwear and apparel brands, combining entrepreneurial vision with a strong command of data science to drive business adaptability and efficiency. At Structures of Legacy, I am committed to helping brands harness advanced analytics and machine learning to navigate competitive, fast-paced markets.
 
-At Structures of Legacy, I continue to apply my skills in:<br>
+Key areas of focus include:
 
-Advanced Analytics: Proficient in Python, SQL, and Tableau, I turn complex data into strategic insights that fuel growth and efficiency.<br/>
+Advanced Analytics: Leveraging Python, SQL, and Tableau to distill complex data into clear, actionable insights that foster strategic growth and operational efficiency.
 
-Machine Learning & Predictive Analytics: Expertise in methods such as Random Forests, Logistic Regression, and K-Means Clustering for optimizing inventory, customer segmentation, and trend forecasting.<br>
+Machine Learning & Predictive Analytics: With expertise in supervised learning methods like classification and regression, as well as unsupervised approaches like clustering, I develop models to optimize inventory management, enhance customer segmentation, and forecast trends. Techniques like Random Forests and K-Means Clustering allow us to segment customers and predict demand patterns, while regression models help refine pricing strategies for profitability.
 
-Data-Driven E-Commerce Strategies: From dynamic pricing to inventory optimization, I apply data science to solve real-world e-commerce challenges, ensuring operational efficiency and profitability.<br>
+Natural Language Processing (NLP): I apply NLP techniques to extract insights from unstructured data, such as customer reviews and social media feedback, which enables brands to better understand customer sentiment, enhance personalization, and align offerings with consumer expectations.
 
-By merging my background in entrepreneurship with advanced analytics, I help businesses stay competitive in a rapidly evolving market. </a></h3> <br/> <h2>(https://www.linkedin.com/in/daleparr/) </h3><br>
+Data-Driven E-Commerce Strategies: From dynamic pricing and targeted promotions to real-time inventory optimization, I use data science to address critical e-commerce challenges, ensuring efficiency, customer satisfaction, and profitability.
+
+By merging my entrepreneurial background with advanced machine learning techniques, I help businesses navigate the complexities of today’s market while staying resilient and competitive. At Structures of Legacy, our mission is to transform data into a strategic advantage, helping brands create lasting impact and value. </a></h3> <br/> <h2>(https://www.linkedin.com/in/daleparr/) </h3><br>
 
 <h2>🎓 London School of Economics and Social Science: Data Analytics: </h2>
   - [Examples of my work] (https://github.com/daleparr/lse)
