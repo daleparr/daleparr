@@ -31,7 +31,7 @@ At Structures of Legacy, my goal is to help brands turn data into a strategic ad
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Project - FunScore (This project aims to qauntify fun in virtul environments) <b>
+- <b>Project - FunScore (This project aims to qauntify fun in virtual environments) <b>
 
 https://github.com/daleparr/Quantifying-Fun-in-Virtual-Experiences
 
