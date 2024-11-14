@@ -33,6 +33,8 @@ At Structures of Legacy, my goal is to help brands turn data into a strategic ad
 
 - <b>Project - FunScore (This project aims to qauntify fun in virtul environments) <b>
 
+https://github.com/daleparr/Quantifying-Fun-in-Virtual-Experiences
+
 - <b>Project - AffinityEngine (This project aims to discover product affinities and predict future co-purchase behavior and recommendations with the Apriori algorithm) <b>
 
 https://github.com/daleparr/AffinityEngine
