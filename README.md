@@ -33,7 +33,7 @@ At Structures of Legacy, my goal is to help brands turn data into a strategic ad
 
 - <b>Project - eComPulse (The evaluation & classification of international ecommerce markets, helping ecommerce leaders prioritize investments in high-potential markets) <b>
 
-https://github.com/daleparr/Quantifying-Fun-in-Virtual-Experiences
+https://github.com/daleparr/eComPulse
 
 - <b>Project - FunScore (This project aims to qauntify fun in virtual environments) <b>
 
