@@ -35,7 +35,7 @@ From **dynamic pricing** to **real-time inventory optimization**, I use data sci
 
 ---
 
-At **Decoded Data Studio**, my goal is to help brands turn data into a **strategic advantage**. By combining my **entrepreneurial experience** with **advanced machine learning techniques**, I guide businesses to meet market demands, set new standards for success, and build resilience in the fashion industry.
+At **Decoded Data Studio**, my goal is to help brands turn data into a **strategic advantage**. By combining my **entrepreneurial experience** with **advanced machine learning techniques**, I guide businesses to meet market demands, set new standards for success, and build resilience in the fashion, beauty, retail and gaming industries.
 
 ---
 
