@@ -1,58 +1,95 @@
-<h3>Hi, I'm Dale, As the founder of Structures of Legacy, I bring over 25 years of experience with a strong academic foundation from the London School of Economics and the University of Cambridge. My career spans investment banking, e-commerce, and fashion retail, giving me a unique perspective on how data science can drive digital transformation and operational excellence in the fashion industry.</h3><br> 
-I specialise in applying data science to power profitable growth, informed by a deep understanding of consumer behavior and market trends.
+# Hi, I'm Dale
 
-Throughout my career, I’ve built and scaled award-winning omnichannel footwear and apparel businesses, combining an entrepreneurial approach with data science expertise to fuel business adaptability and efficiency. At Structures of Legacy, I focus on helping brands leverage advanced analytics and machine learning to navigate today’s fast-evolving markets.
+As the founder of **Decoded Data Studio**, I bring over 25 years of experience with a strong academic foundation from the **London School of Economics** and the **University of Cambridge**. My career spans **investment banking**, **e-commerce**, **fashion retail**,and **gaming** giving me a unique perspective on how **data science** can drive digital transformation and operational excellence in the fashion industry.
 
-Core areas of focus include:
+I specialize in applying data science to power **profitable growth**, informed by a deep understanding of **consumer behavior** and **market trends**.
 
-Advanced Analytics: Using tools like Python, SQL, and Tableau, I turn complex data into clear, actionable insights that support strategic growth and operational efficiency.
+Throughout my career, I’ve built and scaled **award-winning omnichannel footwear and apparel businesses**, combining an entrepreneurial approach with data science expertise to fuel business adaptability and efficiency. At **Decoded Data Studio**, I focus on helping brands leverage **advanced analytics** and **machine learning** to navigate today’s fast-evolving markets.
 
-Machine Learning & Predictive Analytics: I specialise in methods such as classification, regression, and clustering to optimize inventory, improve customer segmentation, and forecast trends. Using unsuperized machine learning techniques like Random Forests and K-Means Clustering help us refine pricing and demand planning with precision.
+---
 
-Natural Language Processing (NLP): I apply NLP to extract valuable insights from unstructured data, such as customer reviews and social media feedback, to enhance personalisation, understand customer sentiment, and align offerings with consumer expectations.
+## Core Areas of Focus
 
-Data-Driven E-Commerce Strategies: From dynamic pricing to real-time inventory optimization, I use data science to solve e-commerce challenges, focusing on efficiency, customer satisfaction, and profitability.
+### Advanced Analytics
+Using tools like **Python**, **SQL**, and **Tableau**, I turn complex data into clear, actionable insights that support **strategic growth** and **operational efficiency**.
 
-At Structures of Legacy, my goal is to help brands turn data into a strategic advantage. By combining my entrepreneurial experience with advanced machine learning techniques, I guide businesses to not only meet market demands but set new standards for success and resilience in the fashion industry. </a></h3> <br/> <h2>(https://www.linkedin.com/in/daleparr/) </h3><br>
+### Machine Learning & Predictive Analytics
+I specialize in methods such as **classification**, **regression**, and **clustering** to:
+- Optimize inventory  
+- Improve customer segmentation  
+- Forecast trends  
 
-<h2>🎓 London School of Economics and Social Science: Data Analytics: </h2>
-  - [Examples of my work] (https://github.com/daleparr/lse)
-  
-<h2>🔬 Data Science Infinity: Project Portfolio</h2>
-  - [Examples of my work] (https://github.com/daleparr/datascienceinfinity)
+Techniques like **Random Forests** and **K-Means Clustering** allow us to refine **pricing** and **demand planning** with precision.
 
-<h2>📜 Certifications:</h2>
+### Natural Language Processing (NLP)
+By applying **NLP**, I extract valuable insights from **unstructured data** (e.g., customer reviews and social media feedback) to:
+- Enhance personalization  
+- Understand customer sentiment  
+- Align offerings with consumer expectations  
 
-- <b>London School of Economics and Social Science: Data Analytics</b>
-  -[View Certificate] (https://github.com/daleparr/LSE/blob/main/lse_data_analytics_certificate.pdf)
-  
-- <b>Data Science Fundamentals</b>
-  - [Examples of my work] (https://github.com/daleparr/data-science-boot-camp)
+### Data-Driven E-Commerce Strategies
+From **dynamic pricing** to **real-time inventory optimization**, I use data science to solve e-commerce challenges with a focus on:
+- **Efficiency**  
+- **Customer satisfaction**  
+- **Profitability**
 
-<h2>👨‍💻 Data Science Projects:</h2>
+---
 
-- <b>Project - eComPulse (The evaluation & classification of international ecommerce markets, helping ecommerce leaders prioritize investments in high-potential markets) <b>
+At **Decoded Data Studio**, my goal is to help brands turn data into a **strategic advantage**. By combining my **entrepreneurial experience** with **advanced machine learning techniques**, I guide businesses to meet market demands, set new standards for success, and build resilience in the fashion industry.
 
-https://github.com/daleparr/eComPulse
+---
 
-- <b>Project - FunScore (This project aims to qauntify fun in virtual environments) <b>
+## 🌐 Connect with Me  
+- [LinkedIn Profile](https://www.linkedin.com/in/daleparr/)
 
-https://github.com/daleparr/Quantifying-Fun-in-Virtual-Experiences
+---
 
-- <b>Project - AffinityEngine (This project aims to discover product affinities and predict future co-purchase behavior and recommendations with the Apriori algorithm) <b>
+## 🎓 Education  
+### London School of Economics and Political Science  
+- **Data Analytics**  
+  - [Examples of My Work](https://github.com/daleparr/lse)
 
-https://github.com/daleparr/AffinityEngine
+---
 
-- <b>Project - SCOPE_Modal (Sales Conversion Optimization and Prediction Engine) </b>
-  - [SCOPE is a tool designed to help businesses understand how well their products are selling and uncover opportunities to boost sales](https://github.com/daleparr/SCOPE_model))
+## 🔬 Data Science Infinity  
+### Project Portfolio  
+- [Examples of My Work](https://github.com/daleparr/datascienceinfinity)
 
-- <b>Project - The Legacy Equation</b>
+---
+
+## 📜 Certifications  
+
+- **London School of Economics and Social Science: Data Analytics**  
+  - [View Certificate](https://github.com/daleparr/LSE/blob/main/lse_data_analytics_certificate.pdf)  
+
+- **Data Science Fundamentals**  
+  - [View Work Samples](https://github.com/daleparr/data-science-boot-camp)
+
+---
+
+## 👨‍💻 Data Science Projects  
+
+### [MarketCipher](https://github.com/daleparr/eComPulse)  
+*The evaluation and classification of international e-commerce markets, helping leaders prioritize investments in high-potential regions.*
+
+### [FunScore](https://github.com/daleparr/Quantifying-Fun-in-Virtual-Experiences)  
+*Quantifying fun in virtual environments to improve user engagement.*
+
+### [AffinityEngine](https://github.com/daleparr/AffinityEngine)  
+*Discovering product affinities and predicting future co-purchase behavior with the **Apriori Algorithm**.*
+
+### [SCOPE_Model](https://github.com/daleparr/SCOPE_model)  
+*SCOPE is a tool designed to evaluate sales conversion and uncover opportunities to boost product performance.*
+
+### [The Legacy Equation](https://github.com/daleparr/)  
+*A project that integrates data science and entrepreneurial strategies to drive innovation and growth.*
+
   - [Various Python Visualizations](https://github.com/daleparr/The-Legacy-Equation)
     
 - <b>Project - Essence L.A.</b>
   - [Various Python Visualizations](https://github.com/daleparr/insights_projects)
   
 [X]: https://twitter.com/mrdparr/
-[Substack]: https://structuresoflegacy.substack.com/
+[Substack]: https://decodeddatastudio.substack.com/
 [instagram]: https://www.instagram.com/daleparr/
 [linkedin]: https://linkedin.com/in/daleparr/
