@@ -69,7 +69,7 @@ At **Decoded Data Studio**, my goal is to help brands turn data into a **strateg
 
 ## 👨‍💻 Data Science Projects  
 
-### [MarketCipher](https://github.com/daleparr/eComPulse)  
+### [MarketCipher](https://github.com/daleparr/MarketCipher/blob/main/README.md)  
 *The evaluation and classification of international e-commerce markets, helping leaders prioritize investments in high-potential regions.*
 
 ### [FunScore](https://github.com/daleparr/Quantifying-Fun-in-Virtual-Experiences)  
