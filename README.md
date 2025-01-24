@@ -1,6 +1,7 @@
 # Hi, I'm Dale
 
-As the founder of **Decoded Data Studio**, I bring over 25 years of experience with a strong academic foundation from the **London School of Economics** and the **University of Cambridge**. My career spans **investment banking**, **e-commerce**, **fashion retail**,and **gaming** giving me a unique perspective on how **data science** can drive digital transformation and operational excellence in the fashion industry.
+As the founder of **Decoded Data Studio**, I bring over 25 years of experience with a strong academic foundation from the **London School of Economics** and the **University of Cambridge**. My career spans **investment banking**, **e-commerce**, **fashion retail**,and 
+ **gaming** giving me a unique perspective on how **data science** can drive digital transformation and operational excellence in the fashion industry.
 
 I specialize in applying data science to power **profitable growth**, informed by a deep understanding of **consumer behavior** and **market trends**.
 
