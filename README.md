@@ -70,8 +70,8 @@ At **Decoded Data Studio**, my goal is to help brands turn data into a **strateg
 
 ## 👨‍💻 Data Science Projects  
 
-### [ Student Dropout Predictor: Using Decision Trees & Deep Learning ](https://github.com/daleparr/voxie_voice_multi_agentic_system)  
-*VOXIE is a **multi-agentic voice AI system** designed to seamlessly integrate with **shop floor retail teams**, providing intelligent, real-time support that enhances efficiency, improves workflows, and elevates the customer experience.*
+### [ Student Dropout Predictor: Using Decision Trees & Deep Learning ](https://github.com/daleparr/student_dropout_predictor/blob/main/README.md)  
+*At what stage in a student’s journey can we most accurately predict dropout, and which predictive models perform best*
 
 ### [ VOXIE: Multi-Agentic Voice AI for Retail Teams](https://github.com/daleparr/voxie_voice_multi_agentic_system)  
 *VOXIE is a **multi-agentic voice AI system** designed to seamlessly integrate with **shop floor retail teams**, providing intelligent, real-time support that enhances efficiency, improves workflows, and elevates the customer experience.*
