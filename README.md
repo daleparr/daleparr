@@ -70,7 +70,10 @@ At **Decoded Data Studio**, my goal is to help brands turn data into a **strateg
 
 ## 👨‍💻 Data Science Projects  
 
-### [# VOXIE: Multi-Agentic Voice AI for Retail Teams](https://github.com/daleparr/voxie_voice_multi_agentic_system)  
+### [ Student Dropout Predictor: Using Decision Trees & Deep Learning ](https://github.com/daleparr/voxie_voice_multi_agentic_system)  
+*VOXIE is a **multi-agentic voice AI system** designed to seamlessly integrate with **shop floor retail teams**, providing intelligent, real-time support that enhances efficiency, improves workflows, and elevates the customer experience.*
+
+### [ VOXIE: Multi-Agentic Voice AI for Retail Teams](https://github.com/daleparr/voxie_voice_multi_agentic_system)  
 *VOXIE is a **multi-agentic voice AI system** designed to seamlessly integrate with **shop floor retail teams**, providing intelligent, real-time support that enhances efficiency, improves workflows, and elevates the customer experience.*
 
 ### [MarketCipher](https://github.com/daleparr/MarketCipher/blob/main/README.md)  
