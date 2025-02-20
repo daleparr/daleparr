@@ -70,6 +70,9 @@ At **Decoded Data Studio**, my goal is to help brands turn data into a **strateg
 
 ## 👨‍💻 Data Science Projects  
 
+### [Predicting Subscriber Volumes Using Machine & Deep Learning ](https://github.com/daleparr/Predicting-Subscriber-Volumes-using-Machine-Deep-Learning-Technqiues/blob/main/README.md)  
+*Accurately forecasting subscriber volumes is essential for businesses to optimize acquisition strategies, budget allocation, and customer retention*
+
 ### [ Student Dropout Predictor: Using Decision Trees & Deep Learning ](https://github.com/daleparr/student_dropout_predictor/blob/main/README.md)  
 *At what stage in a student’s journey can we most accurately predict dropout, and which predictive models perform best*
 
