@@ -91,6 +91,9 @@ At **Decoded Data Studio**, my goal is to help brands turn data into a **strateg
 ### [The Legacy Equation](https://github.com/daleparr/)  
 *A project that integrates data science and entrepreneurial strategies to drive innovation and growth.*
 
+### [Customer Segmentation Clustering](https://github.com/daleparr/Customer-Segmentation-Clustering/blob/main/README.md)  
+*This project aims to segment customers based on their purchasing behaviors to improve marketing strategies.*
+
   - [Various Python Visualizations](https://github.com/daleparr/The-Legacy-Equation)
     
 - <b>Project - Essence L.A.</b>
