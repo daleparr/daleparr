@@ -71,7 +71,7 @@ At **Decoded Data Studio**, my goal is to help brands turn data into a **strateg
 ## 👨‍💻 Data Science Projects  
 
 ### [Predicting Subscriber Volumes Using Machine & Deep Learning ](https://github.com/daleparr/Predicting-Subscriber-Volumes-using-Machine-Deep-Learning-Technqiues/blob/main/README.md)  
-*Accurately forecasting subscriber volumes is essential for businesses to optimize acquisition strategies, budget allocation, and customer retention*
+*This project implements a multi-agent NLP workflow to automatically extract and analyze customer feedback, generating actionable insights for operational improvements in a fitness centre*
 
 ### [Predicting Subscriber Volumes Using Machine & Deep Learning ](https://github.com/daleparr/Predicting-Subscriber-Volumes-using-Machine-Deep-Learning-Technqiues/blob/main/README.md)  
 *Accurately forecasting subscriber volumes is essential for businesses to optimize acquisition strategies, budget allocation, and customer retention*
