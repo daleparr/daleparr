@@ -70,6 +70,10 @@ At **Decoded Data Studio**, my goal is to help brands turn data into a **strateg
 
 ## 👨‍💻 Data Science Projects  
 
+### [Forecasting Retail Book Sales for a Global Publishing Data Provider: ](https://github.com/daleparr/global_publisher/blob/main/README.md)  
+
+*A multi-model time series forecasting project for a global publishing data provider, delivering 8-month revenue projections to optimise print and inventory decisions for bestselling book titles*
+
 ### [The Gym Company: NLP Topic Modelling Project: ](https://github.com/daleparr/The-Gym-Company-NLP-Topic-Modelling-Project)  
 
 *This project implements a multi-agent NLP workflow to automatically extract and analyze customer feedback, generating actionable insights for operational improvements for a multi-national fitness centre chain*
